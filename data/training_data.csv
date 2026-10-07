@@ -1,0 +1,301 @@
+question,evidence,label
+What was the reported efficiency?,The office had 120 employees.,0
+What is the difference between Q1 and Q4 profit?,The weather forecast predicted heavy rainfall.,0
+What is the change in profit between Q1 and Q4?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What is the difference between Q1 and Q4 profit?,Q4 profit increased from $0.62M in Q1 to $1.15M.,1
+What is the relationship between stress and performance?,The weather forecast predicted heavy rainfall.,0
+What value is reported in the performance table?,"Table 1: Study Hours = 0.82, Stress = -0.67, Attendance = 0.41.",1
+Which value is highest in the graph?,The graph indicates that Q4 has the highest reported profit.,1
+Which factor shows the strongest positive correlation with performance?,The organization operated in three regions.,0
+What correlation was reported for attendance?,Attendance showed a positive correlation of 0.41 with Performance.,1
+Which value should be extracted from the table?,Table 1 contains the performance correlation values.,1
+What is the difference between Q1 and Q4 profit?,The company cafeteria served lunch at 1 PM.,0
+Compare the Q1 and Q4 profit.,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What production efficiency was achieved?,The dataset contained 500 records.,0
+What is the difference between Q1 and Q4 profit?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What is the relationship between stress and performance?,The organization operated in three regions.,0
+What is the attendance-performance correlation?,The report was submitted electronically.,0
+What correlation was reported for attendance?,The company cafeteria served lunch at 1 PM.,0
+How strongly is attendance related to performance?,The report contained five pages.,0
+What is the change in profit between Q1 and Q4?,The dataset contained 500 records.,0
+What is the attendance-performance correlation?,The office had 120 employees.,0
+Which factor has the highest correlation with performance?,The project deadline was extended.,0
+What was the Q4 profit?,The meeting was held on Monday.,0
+How much profit was reported in Q1?,The dataset contained 500 records.,0
+What evidence supports the performance analysis?,The financial report records Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+How strongly is attendance related to performance?,Attendance and Performance correlation was 0.41.,1
+Which quarter has the highest value in the chart?,The chart shows Q4 profit increasing to $1.15M.,1
+What evidence from the table supports the conclusion?,"Table 1: Study Hours = 0.82, Stress = -0.67, Attendance = 0.41.",1
+Which factor is most positively correlated with performance?,Performance had a positive correlation of 0.82 with Study Hours.,1
+Which variable has the strongest positive relationship with performance?,The weather forecast predicted heavy rainfall.,0
+Which value represents the highest positive correlation?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What correlation was reported for attendance?,The system used a PostgreSQL database.,0
+What was the difference between Q1 and Q4 profit?,The document was reviewed by the manager.,0
+What percentage of production efficiency was reported?,The report contained five pages.,0
+Which factor is most positively correlated with performance?,The research team used a questionnaire.,0
+What information should be taken from the graph?,The chart title is positioned above the graph.,0
+What is the change in profit between Q1 and Q4?,The organization had three departments.,0
+What does the visual indicate about performance?,The footer contains the company name.,0
+Which variable has the strongest positive relationship with performance?,Study Hours showed the strongest positive correlation of 0.82.,1
+How efficient was production?,Production efficiency was 91%.,1
+What evidence supports the performance analysis?,Study Hours correlation was 0.82 and Stress correlation was -0.67.,1
+What production efficiency was achieved?,The system used a PostgreSQL database.,0
+How much profit was reported in Q1?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+Which reported value is greater?,Study Hours correlation was 0.82 and Stress correlation was -0.67.,1
+What is the change in profit between Q1 and Q4?,The report states Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+What information should be taken from the graph?,The document logo appears in the upper-right corner.,0
+Compare the Q1 and Q4 profit.,Study Hours correlation was 0.82 and Stress correlation was -0.67.,1
+What is the difference between Q1 and Q4 profit?,The office had 120 employees.,0
+What correlation was reported for stress?,Stress showed a negative correlation of -0.67 with Performance.,1
+How much profit was reported in Q1?,The financial report records Q1 profit as $0.62M.,1
+Which variable has the strongest positive relationship with performance?,Performance had a positive correlation of 0.82 with Study Hours.,1
+Which value represents the highest positive correlation?,The document was reviewed by the manager.,0
+How much profit was reported in Q1?,The document was reviewed by the manager.,0
+What is the relationship between stress and performance?,Stress showed a negative correlation of -0.67 with Performance.,1
+What is the strongest positive correlation with performance?,Study Hours showed the strongest positive correlation of 0.82.,1
+What is the highest positive correlation reported?,The correlation between Study Hours and Performance was +0.82.,1
+What trend is shown in the chart?,The chart compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+How much profit was reported in Q4?,Q4 profit was $1.15M.,1
+What is the relationship between attendance and performance?,The correlation between Attendance and Performance was 0.41.,1
+What percentage of production efficiency was reported?,The office had 120 employees.,0
+Which correlation has the greatest absolute strength?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+Which value is highest in the graph?,The chart compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+What is the stress-performance correlation?,The office had 120 employees.,0
+What was the Q4 profit?,The project used Python for preprocessing.,0
+What information should be taken from the graph?,The figure caption uses bold text.,0
+Which value is highest in the graph?,The visual shows an upward trend in quarterly profit.,1
+What production efficiency was achieved?,Production efficiency was 91%.,1
+Which factor is most positively correlated with performance?,The correlation between Study Hours and Performance was +0.82.,1
+Which quarter has the highest value in the chart?,The document logo appears in the upper-right corner.,0
+How is stress related to performance?,The project deadline was extended.,0
+Which quarter had a profit of $1.15M?,The office had 120 employees.,0
+What is the stress-performance correlation?,The project included a web interface.,0
+Which value represents the highest positive correlation?,The organization operated in three regions.,0
+What was the difference between Q1 and Q4 profit?,The financial report records Q1 profit as $0.62M.,1
+Which factor is most positively correlated with performance?,The project deadline was extended.,0
+What is the relationship between stress and performance?,The document was reviewed by the manager.,0
+How much higher was Q4 profit than Q1 profit?,The project deadline was extended.,0
+Which correlation has the greatest absolute strength?,The project deadline was extended.,0
+What production efficiency was achieved?,The report recorded production efficiency at 91%.,1
+How efficient was production?,The company cafeteria served lunch at 1 PM.,0
+What was the reported efficiency?,The dataset contained 500 records.,0
+Which factor has the highest correlation with performance?,The report contained five pages.,0
+Which factor shows the strongest positive correlation with performance?,The document was converted from Word to PDF.,0
+Which value is highest in the graph?,The chart title is positioned above the graph.,0
+Compare the strongest positive and negative correlations.,The financial report records Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+How much higher was Q4 profit than Q1 profit?,The financial report records Q4 profit as $1.15M.,1
+What is the highest positive correlation reported?,The research team used a questionnaire.,0
+What evidence supports the performance analysis?,The academic report records Study Hours correlation of 0.82 and Stress correlation of -0.67.,1
+What evidence from the table supports the conclusion?,The table reports Stress at -0.67 and Attendance at 0.41.,1
+How much profit was reported in Q1?,The organization had three departments.,0
+Which quarter had a profit of $1.15M?,The organization had three departments.,0
+Which variable has the strongest positive relationship with performance?,The report contained five pages.,0
+Which factor has the highest correlation with performance?,The document was reviewed by the manager.,0
+What was the reported quarterly profit?,The dataset contained 500 records.,0
+What trend is shown in the chart?,The document contains a decorative icon.,0
+How is stress related to performance?,The research team used a questionnaire.,0
+Which factor has the highest correlation in the table?,The table reports Stress at -0.67 and Attendance at 0.41.,1
+What was the production efficiency?,The office had 120 employees.,0
+What trend is shown in the chart?,The chart shows Q4 profit increasing to $1.15M.,1
+Which correlation has the greatest absolute strength?,Q4 profit increased from $0.62M in Q1 to $1.15M.,1
+What was the difference between Q1 and Q4 profit?,The financial report records Q4 profit as $1.15M.,1
+Which factor shows the strongest positive correlation with performance?,The organization had three departments.,0
+How is stress related to performance?,Stress showed a negative correlation of -0.67 with Performance.,1
+Which factor shows the strongest positive correlation with performance?,Study Hours showed the strongest positive correlation of 0.82.,1
+What correlation was reported for stress?,The meeting was held on Monday.,0
+Compare the strongest positive and negative correlations.,Study Hours correlation was 0.82 and Stress correlation was -0.67.,1
+What is the relationship between stress and performance?,The project used Python for preprocessing.,0
+What was the difference between Q1 and Q4 profit?,Q1 profit was $0.62M.,1
+Is the stress-performance relationship positive or negative?,The document was converted from Word to PDF.,0
+Which value represents the highest positive correlation?,The research team used a questionnaire.,0
+Which value should be extracted from the table?,"Table 1: Study Hours = 0.82, Stress = -0.67, Attendance = 0.41.",1
+Compare the Q1 and Q4 profit.,The academic report records Study Hours correlation of 0.82 and Stress correlation of -0.67.,1
+What is the relationship between stress and performance?,The Stress-Performance relationship had a correlation of -0.67.,1
+What information should be taken from the graph?,The visual shows an upward trend in quarterly profit.,1
+Which value should be extracted from the table?,The table reports Stress at -0.67 and Attendance at 0.41.,1
+What was the Q4 profit?,The report included an appendix.,0
+Which factor has the highest correlation in the table?,Table 1 contains the performance correlation values.,1
+Which document evidence should be used to calculate the profit difference?,The academic report records Study Hours correlation of 0.82 and Stress correlation of -0.67.,1
+Which quarter has the highest value in the chart?,The visual shows an upward trend in quarterly profit.,1
+How strongly is attendance related to performance?,The experiment lasted four weeks.,0
+What correlation was reported for stress?,The organization operated in three regions.,0
+Which factor shows the strongest positive correlation with performance?,The experiment lasted four weeks.,0
+Which correlation has the greatest absolute strength?,The organization operated in three regions.,0
+Which correlation has the greatest absolute strength?,"Study Hours correlation was 0.82, Stress correlation was -0.67, and Attendance correlation was 0.41.",1
+How is stress related to performance?,The system used a PostgreSQL database.,0
+What was the production efficiency?,Production achieved an efficiency of 91%.,1
+How is stress related to performance?,The Stress-Performance relationship had a correlation of -0.67.,1
+How much profit was reported in Q1?,The report compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+Is the stress-performance relationship positive or negative?,The project deadline was extended.,0
+What is the change in profit between Q1 and Q4?,Q4 profit increased from $0.62M in Q1 to $1.15M.,1
+What is the relationship between stress and performance?,Stress and Performance correlation was -0.67.,1
+What was the Q1 profit?,Q1 profit was $0.62M.,1
+What information should be taken from the graph?,The chart shows Q4 profit increasing to $1.15M.,1
+Which reported value is greater?,The financial report records Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+How much profit was reported in Q4?,The meeting was held on Monday.,0
+How much profit was reported in Q1?,Q1 profit was $0.62M.,1
+Which factor is most positively correlated with performance?,The company cafeteria served lunch at 1 PM.,0
+What is the attendance-performance correlation?,Study Hours and Performance correlation was 0.82.,0
+How much profit was reported in Q1?,The office had 120 employees.,0
+What is the attendance-performance correlation?,The system used a PostgreSQL database.,0
+Which reported value is greater?,The academic report records Study Hours correlation of 0.82 and Stress correlation of -0.67.,1
+Which value is highest in the graph?,The chart shows Q4 profit increasing to $1.15M.,1
+What is the stress-performance correlation?,The document was reviewed by the manager.,0
+How much higher was Q4 profit than Q1 profit?,The office had 120 employees.,0
+What evidence from the table supports the conclusion?,The correlation table reports Study Hours at 0.82.,1
+What was the Q4 profit?,The research team used a questionnaire.,0
+Compare the Q1 and Q4 profit.,The financial report records Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+What was the Q1 profit?,Reported Q1 profit amounted to $0.62M.,1
+What production efficiency was achieved?,The report contained several figures.,0
+Which quarter has the highest value in the chart?,The graph indicates that Q4 has the highest reported profit.,1
+How much profit was reported in Q1?,The project used Python for preprocessing.,0
+What does the correlation table show?,Table 1 contains the performance correlation values.,1
+What percentage of production efficiency was reported?,Production achieved an efficiency of 91%.,1
+What percentage of production efficiency was reported?,The company cafeteria served lunch at 1 PM.,0
+Which factor is most positively correlated with performance?,The project included a web interface.,0
+Is the stress-performance relationship positive or negative?,The office had 120 employees.,0
+What information should be taken from the graph?,The document contains a decorative icon.,0
+Is the stress-performance relationship positive or negative?,The organization operated in three regions.,0
+What was the difference between Q1 and Q4 profit?,Reported Q4 profit amounted to $1.15M.,1
+What was the production efficiency?,Stress and Performance correlation was -0.67.,0
+How much profit was reported in Q4?,The report compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+What percentage of production efficiency was reported?,The report recorded production efficiency at 91%.,1
+Which value represents the highest positive correlation?,"Study Hours correlation was 0.82, Stress correlation was -0.67, and Attendance correlation was 0.41.",1
+What is the strongest positive correlation with performance?,The organization operated in three regions.,0
+Which correlation has the greatest absolute strength?,The project used Python for preprocessing.,0
+What correlation was reported for attendance?,The correlation between Attendance and Performance was 0.41.,1
+What does the visual indicate about performance?,The graph indicates that Q4 has the highest reported profit.,1
+Which factor has the highest correlation with performance?,The research team used a questionnaire.,0
+Which variable has the strongest positive relationship with performance?,The report contained several figures.,0
+Which value represents the highest positive correlation?,The document was converted from Word to PDF.,0
+What was the Q1 profit?,The report compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+What was the Q4 profit?,The report compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+Which value represents the highest positive correlation?,Q4 profit increased from $0.62M in Q1 to $1.15M.,1
+Which value represents the highest positive correlation?,The document was created in 2025.,0
+Which quarter had a profit of $1.15M?,The dataset contained 500 records.,0
+Which factor shows the strongest positive correlation with performance?,The correlation between Study Hours and Performance was +0.82.,1
+What was the Q4 profit?,The dataset contained 500 records.,0
+What is the strongest positive correlation with performance?,The correlation between Study Hours and Performance was +0.82.,1
+What percentage of production efficiency was reported?,The report contained several figures.,0
+What is the change in profit between Q1 and Q4?,"Study Hours correlation was 0.82, Stress correlation was -0.67, and Attendance correlation was 0.41.",1
+What information should be taken from the graph?,The chart compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+What evidence supports the performance analysis?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+How efficient was production?,The report contained several figures.,0
+What is the attendance-performance correlation?,Attendance and Performance correlation was 0.41.,1
+How much profit was reported in Q1?,Reported Q1 profit amounted to $0.62M.,1
+Which factor has the highest correlation in the table?,"Table 1: Study Hours = 0.82, Stress = -0.67, Attendance = 0.41.",1
+What correlation was reported for attendance?,The organization had three departments.,0
+What is the relationship between attendance and performance?,The system used a PostgreSQL database.,0
+What was the Q4 profit?,The report contained several figures.,0
+How much higher was Q4 profit than Q1 profit?,The dataset contained 500 records.,0
+Compare the strongest positive and negative correlations.,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What was the reported quarterly profit?,The organization had three departments.,0
+Which factor shows the strongest positive correlation with performance?,Performance had a positive correlation of 0.82 with Study Hours.,1
+What was the reported efficiency?,The project used Python for preprocessing.,0
+Is the stress-performance relationship positive or negative?,The project used Python for preprocessing.,0
+What is the stress-performance correlation?,Stress and Performance correlation was -0.67.,1
+Which quarter has the highest value in the chart?,The chart compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+What percentage of production efficiency was reported?,Production efficiency was 91%.,1
+What is the change in profit between Q1 and Q4?,The document was reviewed by the manager.,0
+How efficient was production?,The report recorded production efficiency at 91%.,1
+What was the production efficiency?,The company cafeteria served lunch at 1 PM.,0
+What value is reported in the performance table?,Table 1 contains the performance correlation values.,1
+How much higher was Q4 profit than Q1 profit?,Reported Q1 profit amounted to $0.62M.,1
+What was the production efficiency?,The organization operated in three regions.,0
+What value is reported in the performance table?,The correlation table reports Study Hours at 0.82.,1
+What is the change in profit between Q1 and Q4?,The document was converted from Word to PDF.,0
+What production efficiency was achieved?,Production achieved an efficiency of 91%.,1
+What correlation was reported for stress?,The Stress-Performance relationship had a correlation of -0.67.,1
+Which document evidence should be used to calculate the profit difference?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What was the reported efficiency?,The report recorded production efficiency at 91%.,1
+What is the attendance-performance correlation?,Attendance showed a positive correlation of 0.41 with Performance.,1
+How is stress related to performance?,The weather forecast predicted heavy rainfall.,0
+What was the Q4 profit?,The office had 120 employees.,0
+What is the attendance-performance correlation?,The experiment lasted four weeks.,0
+Which factor is most positively correlated with performance?,Study Hours and Performance correlation was 0.82.,1
+What is the strongest positive correlation with performance?,Study Hours and Performance correlation was 0.82.,1
+What is the strongest positive correlation with performance?,Performance had a positive correlation of 0.82 with Study Hours.,1
+What is the attendance-performance correlation?,The project used Python for preprocessing.,0
+What is the relationship between attendance and performance?,Attendance showed a positive correlation of 0.41 with Performance.,1
+How strongly is attendance related to performance?,The project included a web interface.,0
+What is the attendance-performance correlation?,The weather forecast predicted heavy rainfall.,0
+What is the relationship between attendance and performance?,The research team used a questionnaire.,0
+What is the relationship between attendance and performance?,Attendance and Performance correlation was 0.41.,1
+What does the visual indicate about performance?,The chart title is positioned above the graph.,0
+How much profit was reported in Q4?,The financial report records Q4 profit as $1.15M.,1
+Compare the strongest positive and negative correlations.,The academic report records Study Hours correlation of 0.82 and Stress correlation of -0.67.,1
+What was the Q4 profit?,The system used a PostgreSQL database.,0
+What was the reported efficiency?,Production achieved an efficiency of 91%.,1
+How much profit was reported in Q4?,The report contained several figures.,0
+How strongly is attendance related to performance?,The correlation between Attendance and Performance was 0.41.,1
+What was the reported quarterly profit?,The report contained several figures.,0
+What production efficiency was achieved?,The research team used a questionnaire.,0
+Which factor has the highest correlation in the table?,The correlation table reports Study Hours at 0.82.,1
+What was the production efficiency?,The report recorded production efficiency at 91%.,1
+What evidence from the table supports the conclusion?,Table 1 contains the performance correlation values.,1
+What was the Q1 profit?,The document was created in 2025.,0
+What is the change in profit between Q1 and Q4?,The report included an appendix.,0
+How efficient was production?,The document was created in 2025.,0
+Which variable has the strongest positive relationship with performance?,The project included a web interface.,0
+What was the reported quarterly profit?,The project deadline was extended.,0
+Which factor shows the strongest positive correlation with performance?,The project deadline was extended.,0
+Which value is highest in the graph?,The page number is displayed at the bottom.,0
+What percentage of production efficiency was reported?,The project included a web interface.,0
+What is the highest positive correlation reported?,Study Hours showed the strongest positive correlation of 0.82.,1
+How efficient was production?,The office had 120 employees.,0
+Which value represents the highest positive correlation?,The organization had three departments.,0
+What information should be taken from the graph?,The page contains a blue horizontal line.,0
+What does the visual indicate about performance?,The visual shows an upward trend in quarterly profit.,1
+What correlation was reported for attendance?,Attendance and Performance correlation was 0.41.,1
+What is the difference between Q1 and Q4 profit?,The report contained several figures.,0
+Which factor has the highest correlation with performance?,The report contained several figures.,0
+How much higher was Q4 profit than Q1 profit?,Reported Q4 profit amounted to $1.15M.,1
+What is the stress-performance correlation?,The project used Python for preprocessing.,0
+How much profit was reported in Q4?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+How efficient was production?,Production achieved an efficiency of 91%.,1
+What correlation was reported for stress?,Stress and Performance correlation was -0.67.,1
+What was the production efficiency?,Production efficiency was 91%.,1
+What is the strongest positive correlation with performance?,The document was created in 2025.,0
+How much profit was reported in Q1?,The report contained several figures.,0
+What percentage of production efficiency was reported?,The document was reviewed by the manager.,0
+Which factor shows the strongest positive correlation with performance?,Study Hours and Performance correlation was 0.82.,1
+What correlation was reported for stress?,The document was converted from Word to PDF.,0
+What is the difference between Q1 and Q4 profit?,"Study Hours correlation was 0.82, Stress correlation was -0.67, and Attendance correlation was 0.41.",1
+Which variable has the strongest positive relationship with performance?,The correlation between Study Hours and Performance was +0.82.,1
+How much higher was Q4 profit than Q1 profit?,The financial report records Q1 profit as $0.62M.,1
+What was the difference between Q1 and Q4 profit?,The report compares Q1 profit of $0.62M with Q4 profit of $1.15M.,1
+Which correlation has the greatest absolute strength?,The report states Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+How much higher was Q4 profit than Q1 profit?,Q4 profit was $1.15M.,1
+How much higher was Q4 profit than Q1 profit?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What does the correlation table show?,"Table 1: Study Hours = 0.82, Stress = -0.67, Attendance = 0.41.",1
+What is the difference between Q1 and Q4 profit?,The report states Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+Which document evidence should be used to calculate the profit difference?,Study Hours correlation was 0.82 and Stress correlation was -0.67.,1
+What is the highest positive correlation reported?,The system used a PostgreSQL database.,0
+What is the relationship between attendance and performance?,The document was reviewed by the manager.,0
+What is the relationship between attendance and performance?,The document was created in 2025.,0
+Which quarter has the highest value in the chart?,The figure caption uses bold text.,0
+What was the reported efficiency?,The report included an appendix.,0
+Which correlation has the greatest absolute strength?,The experiment lasted four weeks.,0
+What is the relationship between stress and performance?,The system used a PostgreSQL database.,0
+How much higher was Q4 profit than Q1 profit?,The report states Q1 profit of $0.62M and Q4 profit of $1.15M.,1
+What is the highest positive correlation reported?,The company cafeteria served lunch at 1 PM.,0
+What was the Q4 profit?,Q4 profit was $1.15M.,1
+Which factor has the highest correlation with performance?,Study Hours showed the strongest positive correlation of 0.82.,1
+Is the stress-performance relationship positive or negative?,Stress and Performance correlation was -0.67.,1
+Which quarter had a profit of $1.15M?,The experiment lasted four weeks.,0
+How is stress related to performance?,Stress and Performance correlation was -0.67.,1
+How strongly is attendance related to performance?,Attendance showed a positive correlation of 0.41 with Performance.,1
+What is the stress-performance correlation?,The Stress-Performance relationship had a correlation of -0.67.,1
+What is the attendance-performance correlation?,The correlation between Attendance and Performance was 0.41.,1
+What correlation was reported for attendance?,The report included an appendix.,0
+What is the highest positive correlation reported?,The meeting was held on Monday.,0
+What is the highest positive correlation reported?,Study Hours and Performance correlation was 0.82.,1
+What was the Q1 profit?,Q1 profit was $0.62M and Q4 profit was $1.15M.,1
+What is the relationship between stress and performance?,The meeting was held on Monday.,0
+How much profit was reported in Q4?,Reported Q4 profit amounted to $1.15M.,1
+What was the reported efficiency?,Production efficiency was 91%.,1
+What trend is shown in the chart?,The graph indicates that Q4 has the highest reported profit.,1
+What is the relationship between stress and performance?,The document was created in 2025.,0
+Which factor is most positively correlated with performance?,The document was reviewed by the manager.,0
+What was the Q1 profit?,The system used a PostgreSQL database.,0
+What is the attendance-performance correlation?,Stress and Performance correlation was -0.67.,0
